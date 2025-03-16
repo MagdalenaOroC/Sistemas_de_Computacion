@@ -1,4 +1,5 @@
 Catedra: Sistemas de Computacion
 Capitulo 1 __________ Introduccion a Git
 Capitulo 2 __________ Flujo de trabajo bàsico
-Capitulo 3 __________ Repositorios remotos
+Capitulo 3 __________ Gestiòn de ramas
+Capitulo 4 __________ Repositorios remotos
